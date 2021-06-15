@@ -52,11 +52,12 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-Hi {}, Perkenalkan,nama saya {}!
-Saya adalah robot yang bisa membantumu memanage grup kamu. 
-Cepat Undang aku ke grup mu, Supaya aku bisa memberantas para penjahat.
-Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meresahkan!😋.
-Aku hanya robot tapi Aku juga bisa Galau, jangan Sakiti aku ya mas!!
+ʜᴀʟᴏᴏ {}, Perkenalkan,nama saya {}!
+
+
+ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
+ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ
+
 ━─━─━─━─━─━─━─━─━─━─━
 
 ▪**USERNAME KU ADALAH :** [YPR](http://t.me/yprya)
@@ -87,7 +88,7 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = ""
+ASTRAKOBOT_IMG = "https://telegra.ph/file/bf990b0d16fa8520fb3e3.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
