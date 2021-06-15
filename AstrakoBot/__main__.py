@@ -53,24 +53,19 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 
 ʜᴀʟᴏᴏ {}, Perkenalkan,nama saya {}!
-
-
 ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
 ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ
 
 ━─━─━─━─━─━─━─━─━─━─━
-
-▪**USERNAME KU ADALAH :** [YPR](http://t.me/yprya)
-
+▪**USERNAME KU ADALAH :** [YPR](http://t.me/ustaddadakan)
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
 """
 
 HELP_STRINGS = """
+
 ʜᴀʟᴏᴏ Nama saya adalah *{}*.
-
 ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
-
 ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ.
 
 *Perintah utama* yang tersedia:
