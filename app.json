@@ -1,5 +1,5 @@
 {
-      "name": "GOKU BOT",
+      "name": "YPR BOT",
       "description": "BOT YANG DIGUNAKAN UNTUK MEMANAGE GROUP ANDA.",
       "logo": "https://telegra.ph/file/00131fa3dd81ff230b273.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "AstrakoBot"
       ],   
-   "repository": "https://github.com/ramadhani892/Goku",
+   "repository": "https://github.com/lordypr/Ypr",
    "addons": [
       {
          "options": {
