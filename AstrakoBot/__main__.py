@@ -66,9 +66,11 @@ Tekan /help untuk melihat daftar fitur saya.
 """
 
 HELP_STRINGS = """
-Hai! Nama saya adalah *{}*.
-Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
-hal-hal yang bisa saya bantu.
+ʜᴀʟᴏᴏ Nama saya adalah *{}*.
+
+ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
+
+ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ.
 
 *Perintah utama* yang tersedia:
  - /start: mulai bot
