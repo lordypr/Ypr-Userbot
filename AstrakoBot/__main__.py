@@ -54,21 +54,17 @@ PM_START_TEXT = """
 
 ┗┓𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐆𝐑𝐎𝐔𝐏┏┛
 
-Hallo👋 *{}*, nama saya *{}!*
-Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
+ʜᴀʟᴏᴏ {} !
+ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
+ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ
 ━━━━━━━━━━━━━━━━━━━━
 _Dikelola Oleh_ [Pin💻](https://t.me/skiditod)
-
-࿇Tambahkan saya ke group mu dan jadikan saya *admin!!* 🧑‍💻
-
-࿇Klik /help 💁‍♂ untuk melihat fitur fitur yang bisa kamu gunakan untuk membantu kinerja grup kamu.
 """
 
 HELP_STRINGS = """
-Hai! Nama saya adalah *{}*.
-Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
-hal-hal yang bisa saya bantu.
-
+ʜᴀʟᴏᴏ {} !
+ɪɴɪ ʙᴏᴛ ᴘᴜɴʏᴀ ꜰɪᴏ ʏᴇʜ ᴄᴜᴍᴀɴ ᴍᴏ ʙɪʟᴀɴɢ ʏɢ ᴘᴜɴʏᴀ ʙᴏᴛ ɪɴɪ sᴜᴘᴇʀ ᴄᴀɴᴛɪᴋ ɢᴀʙᴀᴋᴀʟ ʙɪsᴀ ᴛɪᴅᴜʀ ʟᴜ sᴀᴋɪɴɢ ᴄᴀɴᴛɪᴋɴʏᴀ, ɢᴀs ᴛᴀᴍʙᴀʜᴋᴀɴ ʙᴏᴛ ɪɴɪ ᴋᴇ ɢʀᴜᴘ ᴍᴜ sᴜᴘᴀʏᴀ ᴍᴀᴋɪɴ ᴋᴇʀᴇɴ!
+ᴋᴇᴛɪᴋ /help ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴛᴜᴋ ᴛᴇᴍᴜᴋᴀɴ ʙᴀɴʏᴀᴋ ʀᴀsᴀ
 *Perintah utama* yang tersedia:
  - /start: mulai bot
  - /help: PM Anda dengan pesan ini.
@@ -83,12 +79,12 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://telegra.ph/file/a8824cc76d9cd59110bb6.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/bf990b0d16fa8520fb3e3.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [PIN📮](https://t.me/skiditod), or [JOIN GC](https://t.me/beergabutria)."""
+user gratisan gausah sok keras; [PIN📮](https://t.me/@ustaddadakan), or [JOIN GC](https://t.me/thiszonanyaman)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -213,7 +209,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="📮 Group",
-                             url=f"https://t.me/beergabutria"),
+                             url=f"https://t.me/thiszonanyaman "),
                      
                          InlineKeyboardButton(
                              text="✏️ Help",
@@ -222,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                      [  
                          InlineKeyboardButton(
                              text="👾 Owner",
-                             url="https://instagram.com/sml.sptr")
+                             url="@ustaddadakan")
                      ]]))
     else:
         update.effective_message.reply_text(
