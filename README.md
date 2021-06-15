@@ -1,11 +1,11 @@
-<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/mixiologist">GOKU</a></b></h2>
+<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/cht_rndm">YPR</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ramadhani892/Goku">
+   <a href="https://github.com/lordypr/Ypr">
    <br>
    <br>
 </p>
-<h1>RAMA BOT</h1>
+<h1>YPR BOT</h1>
 <
 
 ## How to setup/deploy.
