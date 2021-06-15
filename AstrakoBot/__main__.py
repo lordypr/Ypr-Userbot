@@ -59,7 +59,7 @@ Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meres
 Aku hanya robot tapi Aku juga bisa Galau, jangan Sakiti aku ya mas!!
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**USERNAME KU ADALAH :** [GOKU](http://t.me/goku_rbot)
+▪**USERNAME KU ADALAH :** [YPR](http://t.me/yprya)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
@@ -85,12 +85,12 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://i.ibb.co/mSC0msg/IMG-20210418-023743-504.jpg"
+ASTRAKOBOT_IMG = ""
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [RAMA](https://t.me/Ramadhaniiiiiii1), or [SUBS MY CH](https://t.me/Candu_musikk)."""
+user gratisan gausah sok keras; [YPR](https://t.me/yprya), or [SUBS MY CH](https://t.me/cht_rndm)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -215,7 +215,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="👥 TR Grup 👥",
-                             url=f"https://t.me/teman_random"),
+                             url=f"https://t.me/cht_rndm"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command 🍭",
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
                      [  
                          InlineKeyboardButton(
                              text="✨ CHANNEL ✨",
-                             url="https://t.me/ramubotinfo")
+                             url="https://t.me/cht_rndm")
                      ]]))
     else:
         update.effective_message.reply_text(
